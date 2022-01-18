@@ -7,15 +7,15 @@ set notification-fg                 "#CBE3E7"
 
 set completion-bg                   "#1E1C31"
 set completion-fg                   "#CBE3E7"
-set completion-group-bg             "#87DFEB"
+set completion-group-bg             "#A1EFD3"
 set completion-group-fg             "#2D2B40"
 set completion-highlight-bg         "#FFE6B3"
 set completion-highlight-fg         "#2D2B40"
 
 set index-bg                        "#1E1C31"
 set index-fg                        "#CBE3E7"
-set index-active-bg                 "#8A889D"
-set index-active-fg                 "#2D2B40"
+set index-active-bg                 "#CBE3E7"
+set index-active-fg                 "#1E1C31"
 
 set inputbar-bg                     "#1E1C31"
 set inputbar-fg                     "#CBE3E7"
